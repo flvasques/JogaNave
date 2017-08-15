@@ -1,0 +1,60 @@
+.tela{
+	position: absolute;
+	top: 0px; 
+	left:0px; 
+	width: 1000px; 
+	height: 500px; 
+}
+.hpFundo{
+	position: absolute; 
+	top: 450px; 
+	left:20px; 
+	width: 100px; 
+	height: 20px; 
+	background-color: white;
+}
+.hp{
+	width: 100px; 
+	height: 20px; 
+	background-color: red;
+}
+.pts{
+	position: absolute; 
+	top: 10px;
+	left: 10px; 
+	width: 100px; 
+	height: 20px; 
+	text-align: center; 
+	background-color: grey;
+}
+.personagem{
+	width: 50px; 
+	height: 50px; 
+}
+.tabela{
+	position: absolute; 
+	top: 0px; 
+	left: 1010px; 
+	padding: 20px; 
+	width: 300px; 
+	overflow: hidden;
+}
+.tabela h3{
+	font-size: 16px; 
+	text-align: center;
+}
+.tabela table{
+	align: center; 
+	width: 300px;
+}
+.dicas{
+	position: absolute; 
+	top: 500px; 
+	left: 0px; 
+	padding: 20px;
+}
+#inicio{
+	position: absolute; 
+	top: 100px; left: 250px; 
+	width: 500px; height: 400px; 
+}
